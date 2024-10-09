@@ -1,3 +1,3 @@
-hello.world<-function(){
+hello.world=function(){
   print("YES")
 }
